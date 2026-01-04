@@ -22,6 +22,11 @@ Each file is **numbered serially** to maintain a clear learning order.
 | 11 | `11_string_indexing.py` | String indexing & slicing |
 | 12 | `12_format_specifiers.py` | Format specifiers & f-strings |
 | 13 | `13_while_loop.py` | While loop examples |
+| 14 | `14_for_loop.py` | For loop basics & examples |
+| 15 | `15_countdown_timer.py` | Countdown timer using loops |
+| 16 | `16_nested_loops.py` | Nested loop concepts & examples |
+| 17 | `17_lists_sets_n_tuples.py` | Lists, sets, and tuples |
+| 18 | `18_shopping_cart.py` | Shopping cart mini project |
 
 ---
 
