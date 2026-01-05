@@ -1,4 +1,3 @@
-
 # Lesson 01: Printing & Variables
 
 🌐 Language: English | [বাংলা](../bn/01_printing_n_variables.md)
