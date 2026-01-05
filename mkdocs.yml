@@ -1,0 +1,17 @@
+site_name: Python Fundamentals
+site_description: Beginner-friendly Python learning platform
+site_author: Md Ashraful Akash
+site_url: https://ashraful-akash.github.io/python-fundamentals/
+
+theme:
+  name: material
+  language: en
+
+nav:
+  - Home: index.md
+  - English:
+      - Printing & Variables: en/01_printing.md
+      - Type Casting: en/02_typecasting.md
+  - বাংলা:
+      - প্রিন্টিং ও ভেরিয়েবল: bn/01_printing.md
+      - টাইপ কাস্টিং: bn/02_typecasting.md
