@@ -4,22 +4,26 @@
 
 ---
 
-## 📘 Topic
-Printing output and using variables in Python.
+## 📘 Topic Overview
+
+In this lesson, you will learn:
+- How to print output using `print()`
+- What variables are
+- Different basic data types in Python:
+  - String
+  - Integer
+  - Float
+  - Boolean
+
+This lesson is based on your **first Python program**.
 
 ---
 
-## 🧠 Explanation
-Variables are used to store data in memory.  
-The `print()` function is used to display output.
+## 🖨️ Printing Output
 
----
+The `print()` function is used to display output on the screen.
 
-## 💻 Code Example
-
+### Example:
 ```python
-name = "Ashraful"
-age = 22
-
-print(name)
-print(age)
+print("I love pizza!")
+print("Pizza is the best food ever!")
