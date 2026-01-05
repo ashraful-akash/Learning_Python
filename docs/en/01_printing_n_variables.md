@@ -27,3 +27,4 @@ The `print()` function is used to display output on the screen.
 ```python
 print("I love pizza!")
 print("Pizza is the best food ever!")
+```
