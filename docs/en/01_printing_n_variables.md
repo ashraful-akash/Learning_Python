@@ -22,33 +22,8 @@ The examples below are taken from the file `01_printing_n_variables.py`.
 ## 💻 Full source code (original)
 
 ```python
-#this is my first python program
 print("I love pizza!")
 print("Pizza is the best food ever!")
-
-#variables as strings
-first_name="Ashraful"
-  
-print(first_name)
-print(f"Hello {first_name}")
-
-#integers
-age = 25
-quanity=3
-
-
-print(f"Your are buying {quanity} houses")
-
-#float
-price=19.99
-
-print(price)
-
-#boleans
-
-is_student = True
-
-print(f"Are you a student?{is_student}")
 ````
 
 ---
@@ -120,8 +95,8 @@ Integers are numbers without decimals.
 
 ```python
 age = 25
-quanity = 3
-print(f"You are buying {quanity} houses")
+quantity = 3
+print(f"You are buying {quantity} houses")
 ```
 
 **Output:**
@@ -130,7 +105,6 @@ print(f"You are buying {quanity} houses")
 You are buying 3 houses
 ```
 
-Important note: the variable name in the code is `quanity` (likely a typo for `quantity`). It works fine as a variable name, but for clarity and correctness you should rename it to `quantity`:
 
 ```python
 quantity = 3
