@@ -21,25 +21,15 @@ The examples below are taken from the file `02_typecasting.py`.
 
 ---
 
-## 💻 Full source code (original)
-
-```python
-# converting one type to another type
-
-name = "Ashraful"
-age = 25
-gpa = 3.25
-is_student = True
-
-````
-
----
-
 ## 🔍 Checking variable types with `type()`
 
 The `type()` function is used to find the data type of a variable.
 
 ```python
+name = "Ashraful"
+age = 25
+gpa = 3.25
+is_student = True
 print(type(name))
 print(type(age))
 print(type(gpa))
