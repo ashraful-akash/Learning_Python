@@ -1,6 +1,6 @@
 site_name: Python Fundamentals
 site_description: Beginner-friendly Python learning platform
-site_author: Md Ashraful Akash
+site_author: Md Ashraful Hossen Akash
 site_url: https://ashraful-akash.github.io/python-fundamentals/
 
 theme:
@@ -10,8 +10,16 @@ theme:
 nav:
   - Home: index.md
   - English:
-      - Printing & Variables: en/01_printing.md
-      - Type Casting: en/02_typecasting.md
+      - Overview: en/index.md
+      - 01 Printing & Variables: en/01_printing_n_variables.md
+      - 02 Type Casting: en/02_typecasting.md
+      - 03 User Input: en/03_input.md
+      - 04 Mad Libs Game: en/04_madlibs_game.md
+      - 05 Arithmetic & Math: en/05_arithmetic_n_maths.md
+      - 06 If Statement: en/06_if_statement.md
+      - 07 Python Calculator: en/07_python_calculator.md
+      - 08 Logical Operators: en/08_logical_operators.md
+      - 09 Conditional Examples: en/09_conditional_ex.md
   - বাংলা:
       - প্রিন্টিং ও ভেরিয়েবল: bn/01_printing.md
       - টাইপ কাস্টিং: bn/02_typecasting.md
