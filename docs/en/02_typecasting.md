@@ -1,4 +1,3 @@
-````md
 # Lesson 02: Type Casting
 
 🌐 Language: English | [বাংলা](../bn/02_typecasting.md)
