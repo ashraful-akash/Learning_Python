@@ -8,8 +8,8 @@ This platform is suitable for **absolute beginners**, **CSE students**, and anyo
 
 ## 🌍 Choose Language
 
-- 🇬🇧 **[English](en/01_printing.md)**  
-- 🇧🇩 **[বাংলা](bn/01_printing.md)**  
+- 🇬🇧 **[English](en)**  
+- 🇧🇩 **[বাংলা](bn)**  
 
 👉 Start with your preferred language and follow the lessons in order.
 
@@ -30,7 +30,7 @@ This platform is suitable for **absolute beginners**, **CSE students**, and anyo
 
 ## 👨‍🏫 Author
 
-[**Md Ashraful Akash**](https://ashraful-akash.github.io)
+[**Md Ashraful Hossen Akash**](https://ashraful-akash.github.io)
 
 ---
 
