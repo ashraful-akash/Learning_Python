@@ -2,7 +2,8 @@
 
 This repository contains **well-structured Python programs** designed for **beginners** who want to learn Python **from scratch**, step by step.  
 Each file is **numbered serially** to maintain a clear learning order.
-[Website link](https://ashraful-akash.github.io/python-fundamentals/) for learning python with both Bangla and English language
+---
+[Website](https://ashraful-akash.github.io/python-fundamentals/) for learning python with both Bangla and English language
 ---
 
 ## 📂 File Structure & Topics Covered
